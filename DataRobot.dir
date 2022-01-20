@@ -1,0 +1,701 @@
+ 磁碟區 C 中的磁碟沒有標籤。
+ 磁碟區序號:  82B7-C30C
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists 的目錄
+
+01/19/2022  11:49    <DIR>          .
+01/19/2022  11:49    <DIR>          ..
+11/24/2021  14:48                43 .gitignore
+11/24/2021  14:48    <DIR>          Advanced Tuning and Partitioning
+11/24/2021  14:48    <DIR>          AI Catalog
+11/24/2021  14:48             3,431 CODE_OF_CONDUCT.md
+11/24/2021  14:48    <DIR>          Compliance Docs
+11/24/2021  14:48             1,293 CONTRIBUTING.md
+11/24/2021  14:48    <DIR>          DataPrep
+01/19/2022  11:49                 0 DataRobot.dir
+11/24/2021  14:48    <DIR>          Feature Lists Manipulation
+11/24/2021  14:48    <DIR>          Helper Functions
+11/24/2021  14:48    <DIR>          Initiating Projects
+11/24/2021  14:48            11,558 LICENSE
+11/24/2021  14:48    <DIR>          Making Predictions
+11/24/2021  14:48    <DIR>          Model Evaluation
+11/24/2021  14:48    <DIR>          Model Management
+11/26/2021  09:02    <DIR>          Playground
+11/24/2021  14:48    <DIR>          Rating Tables
+11/24/2021  14:48            13,463 README.md
+               6 個檔案          29,788 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git 的目錄
+
+11/26/2021  14:09                 5 COMMIT_EDITMSG
+11/24/2021  14:48               497 config
+11/24/2021  14:48                73 description
+01/19/2022  11:48               610 FETCH_HEAD
+11/24/2021  14:48                23 HEAD
+11/24/2021  14:48    <DIR>          hooks
+11/26/2021  14:09            12,135 index
+11/24/2021  14:48    <DIR>          info
+11/24/2021  14:48    <DIR>          logs
+01/19/2022  11:48    <DIR>          objects
+11/26/2021  14:10                41 ORIG_HEAD
+11/24/2021  14:48               275 packed-refs
+11/24/2021  14:48    <DIR>          refs
+               8 個檔案          13,659 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\hooks 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48               478 applypatch-msg.sample
+11/24/2021  14:48               896 commit-msg.sample
+11/24/2021  14:48             4,655 fsmonitor-watchman.sample
+11/24/2021  14:48               189 post-update.sample
+11/24/2021  14:48               424 pre-applypatch.sample
+11/24/2021  14:48             1,643 pre-commit.sample
+11/24/2021  14:48               416 pre-merge-commit.sample
+11/24/2021  14:48             1,374 pre-push.sample
+11/24/2021  14:48             4,898 pre-rebase.sample
+11/24/2021  14:48               544 pre-receive.sample
+11/24/2021  14:48             1,492 prepare-commit-msg.sample
+11/24/2021  14:48             2,783 push-to-checkout.sample
+11/24/2021  14:48             3,650 update.sample
+              13 個檔案          23,442 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\info 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48               240 exclude
+               1 個檔案             240 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\logs 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/26/2021  14:09               354 HEAD
+11/24/2021  14:48    <DIR>          refs
+               1 個檔案             354 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\logs\refs 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          heads
+11/24/2021  14:55    <DIR>          remotes
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\logs\refs\heads 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/26/2021  14:09               354 master
+               1 個檔案             354 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\logs\refs\remotes 的目錄
+
+11/24/2021  14:55    <DIR>          .
+11/24/2021  14:55    <DIR>          ..
+11/26/2021  14:10    <DIR>          origin
+11/24/2021  14:55    <DIR>          upstream
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\logs\refs\remotes\origin 的目錄
+
+11/26/2021  14:10    <DIR>          .
+11/26/2021  14:10    <DIR>          ..
+11/24/2021  14:48               209 HEAD
+11/26/2021  14:10               147 master
+               2 個檔案             356 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\logs\refs\remotes\upstream 的目錄
+
+11/24/2021  14:55    <DIR>          .
+11/24/2021  14:55    <DIR>          ..
+11/24/2021  14:55               180 afd_soccer_example_wip
+11/24/2021  14:55               180 DalilaB000-patch-1
+01/12/2022  13:07               720 master
+11/24/2021  14:55               180 mattyanselmo-patch-1
+               4 個檔案           1,260 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects 的目錄
+
+01/19/2022  11:48    <DIR>          .
+01/19/2022  11:48    <DIR>          ..
+11/26/2021  14:09    <DIR>          0c
+11/26/2021  14:09    <DIR>          0d
+11/26/2021  14:09    <DIR>          1d
+11/26/2021  14:09    <DIR>          22
+01/12/2022  13:07    <DIR>          25
+12/23/2021  14:54    <DIR>          2a
+01/12/2022  13:07    <DIR>          2b
+01/12/2022  13:07    <DIR>          32
+11/26/2021  14:09    <DIR>          35
+11/26/2021  14:09    <DIR>          3c
+12/23/2021  14:54    <DIR>          3f
+11/25/2021  08:04    <DIR>          47
+12/23/2021  14:54    <DIR>          5b
+11/25/2021  08:04    <DIR>          6e
+11/25/2021  08:04    <DIR>          73
+12/23/2021  14:54    <DIR>          7a
+11/26/2021  14:09    <DIR>          99
+11/26/2021  14:09    <DIR>          a2
+11/25/2021  08:04    <DIR>          a8
+01/12/2022  13:07    <DIR>          ac
+12/23/2021  14:54    <DIR>          d8
+11/25/2021  08:04    <DIR>          db
+11/26/2021  14:09    <DIR>          e6
+11/26/2021  14:09    <DIR>          f4
+01/12/2022  13:07    <DIR>          f5
+11/25/2021  08:04    <DIR>          fe
+11/24/2021  14:48    <DIR>          info
+11/24/2021  14:55    <DIR>          pack
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\0c 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09            42,839 95845031e1f51419cbf9d5d2d6642f88f8ae7d
+               1 個檔案          42,839 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\0d 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09            40,048 0816e992592ec43b79dfae4f6385b5a2b39e51
+               1 個檔案          40,048 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\1d 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09                22 70d5ae9260d5a614803c2c3fd6a8d20e1cd5b4
+               1 個檔案              22 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\22 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09               508 9b02cae0cfcecda267e55d58e0b51adb58d9e8
+               1 個檔案             508 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\25 的目錄
+
+01/12/2022  13:07    <DIR>          .
+01/12/2022  13:07    <DIR>          ..
+01/12/2022  13:07               722 b5fd14f466fc49fe1d25736af98bc4b4795b75
+               1 個檔案             722 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\2a 的目錄
+
+12/23/2021  14:54    <DIR>          .
+12/23/2021  14:54    <DIR>          ..
+12/23/2021  14:54               223 286a944f0900d764814a926526102644e71cd9
+               1 個檔案             223 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\2b 的目錄
+
+01/12/2022  13:07    <DIR>          .
+01/12/2022  13:07    <DIR>          ..
+01/12/2022  13:07                74 5dc977e98409ff62d77fd783509765ee389c17
+               1 個檔案              74 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\32 的目錄
+
+01/12/2022  13:07    <DIR>          .
+01/12/2022  13:07    <DIR>          ..
+01/12/2022  13:07               224 70dcf40f7f8ac92502fef04182a453d3a154b1
+               1 個檔案             224 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\35 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09               156 23fe0cbdb86a1050b07555f004bac5d9cd3efb
+               1 個檔案             156 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\3c 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09               558 910c3ebae61c8d58c60cffdb3480a33ecac7e1
+               1 個檔案             558 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\3f 的目錄
+
+12/23/2021  14:54    <DIR>          .
+12/23/2021  14:54    <DIR>          ..
+12/23/2021  14:54             7,043 4ca9ac7e0b6c42ceab2d331a9a642f5f740c4d
+               1 個檔案           7,043 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\47 的目錄
+
+11/25/2021  08:04    <DIR>          .
+11/25/2021  08:04    <DIR>          ..
+11/25/2021  08:04                73 290cd830b346d36fc48cf9528b8d72ea8886ec
+               1 個檔案              73 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\5b 的目錄
+
+12/23/2021  14:54    <DIR>          .
+12/23/2021  14:54    <DIR>          ..
+12/23/2021  14:54               648 b4a830247ff28d0ec7aaf7b6a5f2098c37e1fc
+               1 個檔案             648 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\6e 的目錄
+
+11/25/2021  08:04    <DIR>          .
+11/25/2021  08:04    <DIR>          ..
+11/25/2021  08:04               190 8892fde4867b1a3a74bea60f0e6fd16e54fe67
+               1 個檔案             190 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\73 的目錄
+
+11/25/2021  08:04    <DIR>          .
+11/25/2021  08:04    <DIR>          ..
+11/25/2021  08:04               221 32b890dca087830388743baae9cfc74ad524a0
+               1 個檔案             221 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\7a 的目錄
+
+12/23/2021  14:54    <DIR>          .
+12/23/2021  14:54    <DIR>          ..
+12/23/2021  14:54                73 bd07db08a60e12877d18616b8f403e003e0c34
+               1 個檔案              73 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\99 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09         1,305,461 bd198c2a634cc14315a0d5e575089a8125aa57
+               1 個檔案       1,305,461 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\a2 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09               654 606a15cb91f2bf84d7910b7a8cb214d611bfcf
+               1 個檔案             654 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\a8 的目錄
+
+11/25/2021  08:04    <DIR>          .
+11/25/2021  08:04    <DIR>          ..
+11/25/2021  08:04               569 31e346f928b871cd1f5478e19e49a8511b5afc
+               1 個檔案             569 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\ac 的目錄
+
+01/12/2022  13:07    <DIR>          .
+01/12/2022  13:07    <DIR>          ..
+01/12/2022  13:07             7,131 a9a481356955fb2d9c63c6ba1da2f29245d6d3
+               1 個檔案           7,131 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\d8 的目錄
+
+12/23/2021  14:54    <DIR>          .
+12/23/2021  14:54    <DIR>          ..
+12/23/2021  14:54               590 59bc53c2af554fd3cbdb9a2812e0be7837e48d
+               1 個檔案             590 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\db 的目錄
+
+11/25/2021  08:04    <DIR>          .
+11/25/2021  08:04    <DIR>          ..
+11/25/2021  08:04               451 960e4bde1e5cb837fe2bade71dd67d35687aee
+               1 個檔案             451 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\e6 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09            19,682 1be4ae2a9af61aab92295d529f348de1225952
+               1 個檔案          19,682 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\f4 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09               299 2387bd7526d63aa67303501db506a84e46c7fc
+               1 個檔案             299 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\f5 的目錄
+
+01/12/2022  13:07    <DIR>          .
+01/12/2022  13:07    <DIR>          ..
+01/12/2022  13:07               649 2ecf5cbe3fdc7a09ec0f71589e51d0c6eb4c33
+               1 個檔案             649 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\fe 的目錄
+
+11/25/2021  08:04    <DIR>          .
+11/25/2021  08:04    <DIR>          ..
+11/25/2021  08:04               649 c3ced44f5c80f1a03914b147d37a3472916e3e
+               1 個檔案             649 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\info 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\objects\pack 的目錄
+
+11/24/2021  14:55    <DIR>          .
+11/24/2021  14:55    <DIR>          ..
+11/24/2021  14:55             4,740 pack-b2a959b28ed6c4c1fea5238a12a6e59c92bcaeb7.idx
+11/24/2021  14:55        37,399,479 pack-b2a959b28ed6c4c1fea5238a12a6e59c92bcaeb7.pack
+11/24/2021  14:48            17,452 pack-fa5d70e93bcfc83d93279414bf2851f999ea580c.idx
+11/26/2021  14:09         6,798,071 pack-fa5d70e93bcfc83d93279414bf2851f999ea580c.pack
+               4 個檔案      44,219,742 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\refs 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/26/2021  14:09    <DIR>          heads
+11/24/2021  14:55    <DIR>          remotes
+11/24/2021  14:48    <DIR>          tags
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\refs\heads 的目錄
+
+11/26/2021  14:09    <DIR>          .
+11/26/2021  14:09    <DIR>          ..
+11/26/2021  14:09                41 master
+               1 個檔案              41 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\refs\remotes 的目錄
+
+11/24/2021  14:55    <DIR>          .
+11/24/2021  14:55    <DIR>          ..
+11/26/2021  14:10    <DIR>          origin
+01/12/2022  13:07    <DIR>          upstream
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\refs\remotes\origin 的目錄
+
+11/26/2021  14:10    <DIR>          .
+11/26/2021  14:10    <DIR>          ..
+11/24/2021  14:48                32 HEAD
+11/26/2021  14:10                41 master
+               2 個檔案              73 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\refs\remotes\upstream 的目錄
+
+01/12/2022  13:07    <DIR>          .
+01/12/2022  13:07    <DIR>          ..
+11/24/2021  14:55                41 afd_soccer_example_wip
+11/24/2021  14:55                41 DalilaB000-patch-1
+01/12/2022  13:07                41 master
+11/24/2021  14:55                41 mattyanselmo-patch-1
+               4 個檔案             164 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\.git\refs\tags 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Advanced Tuning and Partitioning 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+11/24/2021  14:48    <DIR>          R
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Advanced Tuning and Partitioning\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48            21,270 Advanced Tuning.ipynb
+11/24/2021  14:48             3,873 AdvancedOptions object.ipynb
+11/24/2021  14:48    <DIR>          DataRobot_Optimizer
+11/24/2021  14:48             5,466 Datetime Partitioning.ipynb
+               3 個檔案          30,609 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Advanced Tuning and Partitioning\Python\DataRobot_Optimizer 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             3,268 Lending Club Sample 30.csv
+11/24/2021  14:48            76,583 Optimizing Through API.ipynb
+11/24/2021  14:48             6,465 Picture1.gif
+11/24/2021  14:48               947 README.md
+11/24/2021  14:48                 2 tp.txt
+               5 個檔案          87,265 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Advanced Tuning and Partitioning\R 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             2,359 Advanced_Tuning.Rmd
+11/24/2021  14:48             3,217 Datetime_Partitioning.Rmd
+               2 個檔案           5,576 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\AI Catalog 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             9,177 AI_Catalog_API.ipynb
+11/24/2021  14:48               268 README.md
+               2 個檔案           9,445 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Compliance Docs 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+11/24/2021  14:48    <DIR>          R
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Compliance Docs\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             5,532 Getting Compliance Documentation.ipynb
+               1 個檔案           5,532 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Compliance Docs\R 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             2,951 Getting_Compliance_Documentation.Rmd
+               1 個檔案           2,951 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\DataPrep 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48            21,874 dataprep_functions.py
+11/24/2021  14:48             2,047 README.md
+               2 個檔案          23,921 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Feature Lists Manipulation 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+11/24/2021  14:48    <DIR>          R
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Feature Lists Manipulation\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48           114,641 Advanced Feature Selection.ipynb
+11/24/2021  14:48             3,518 Feature Lists Manipulation.ipynb
+11/24/2021  14:48            74,815 FeatureSelection_using_Feature_Importance_Rank_Ensembling.ipynb
+11/24/2021  14:48             5,285 Transforming Feature Types.ipynb
+               4 個檔案         198,259 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Feature Lists Manipulation\R 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             6,172 Advanced_Feature_Selection.Rmd
+11/24/2021  14:48             2,081 Feature_Lists_Manipulation.Rmd
+11/24/2021  14:48             5,648 Transforming_Feature_Types.Rmd
+               3 個檔案          13,901 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Helper Functions 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Modeling
+11/24/2021  14:48    <DIR>          Time Series
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Helper Functions\Modeling 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Helper Functions\Modeling\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48               208 README.md
+11/24/2021  14:48               856 run_specifc_blueprints.py
+               2 個檔案           1,064 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Helper Functions\Time Series 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Helper Functions\Time Series\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             1,438 README.md
+11/24/2021  14:48             1,478 ts_clone_project.py
+11/24/2021  14:48            10,326 ts_clustering.py
+11/24/2021  14:48            10,391 ts_create_project_advanced.py
+11/24/2021  14:48            28,570 ts_data_quality_check.py
+11/24/2021  14:48             1,818 ts_fill_dates_per_series.py
+11/24/2021  14:48             5,015 ts_ion_cannon.py
+11/24/2021  14:48             4,087 ts_metrics.py
+11/24/2021  14:48            10,455 ts_modeling.py
+11/24/2021  14:48             5,282 ts_preprocessing.py
+11/24/2021  14:48            26,165 ts_projects.py
+              11 個檔案         105,025 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Initiating Projects 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+11/24/2021  14:48    <DIR>          R
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Initiating Projects\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48            12,553 Starting a Binary Classification Project.ipynb
+11/24/2021  14:48             7,547 Starting a Multiclass Classification Project.ipynb
+11/24/2021  14:48            15,758 Starting a Project with Selected Blueprints.ipynb
+11/24/2021  14:48             8,840 Starting a Regression Project.ipynb
+11/24/2021  14:48            18,397 Starting a Time Series Project.ipynb
+               5 個檔案          63,095 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Initiating Projects\R 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             2,181 Starting_a_Binary_Classification_Project.Rmd
+11/24/2021  14:48             2,328 Starting_a_Multiclass_Classification_Project.Rmd
+11/24/2021  14:48             2,576 Starting_a_Project_with_Selected_Blueprints.Rmd
+11/24/2021  14:48             2,244 Starting_a_Regression_Project.Rmd
+11/24/2021  14:48            12,675 Starting_a_time_Series_Project.Rmd
+               5 個檔案          22,004 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Making Predictions 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+11/24/2021  14:48    <DIR>          R
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Making Predictions\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48            12,120 Getting Predictions and Prediction Explanations.ipynb
+11/24/2021  14:48            10,637 Scoring Big Datasets--Batch Prediction API.ipynb
+               2 個檔案          22,757 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Making Predictions\R 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             6,206 Getting Predictions and Prediction Explanations.Rmd
+11/24/2021  14:48             3,419 PredictionExplanationClustering.Rmd
+               2 個檔案           9,625 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Model Evaluation 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+11/24/2021  14:48    <DIR>          R
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Model Evaluation\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             5,581 Getting Confusion Chart.ipynb
+11/24/2021  14:48            16,180 Getting Feature Impact.ipynb
+11/24/2021  14:48           175,111 Getting Lift Chart.ipynb
+11/24/2021  14:48            50,698 Getting Partial Dependence Plot.ipynb
+11/24/2021  14:48            44,548 Getting ROC Curve.ipynb
+11/24/2021  14:48         4,466,998 Getting SHAP Values.ipynb
+11/24/2021  14:48           111,483 Getting Word Cloud.ipynb
+11/24/2021  14:48           752,695 Plotting Prediction Intervals for Time Series Projects.ipynb
+               8 個檔案       5,623,294 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Model Evaluation\R 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             2,485 Getting_Confusion_Chart.Rmd
+11/24/2021  14:48             1,837 Getting_Feature_Impact.Rmd
+11/24/2021  14:48             3,545 Getting_Lift_Chart.Rmd
+11/24/2021  14:48            10,053 Getting_Partial_Dependence_Plot.rmd
+11/24/2021  14:48             2,994 Getting_ROC_Curve.Rmd
+11/24/2021  14:48             2,569 Getting_Word_Cloud.Rmd
+               6 個檔案          23,483 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Model Management 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48    <DIR>          Python
+11/24/2021  14:48    <DIR>          R
+               0 個檔案               0 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Model Management\Python 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             9,598 Model Management and Monitoring.ipynb
+11/24/2021  14:48             2,846 Sharing Projects.ipynb
+11/24/2021  14:48             3,142 Uploading Actuals to a DataRobot Deployment.ipynb
+               3 個檔案          15,586 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Model Management\R 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48             4,592 Model_Management_and_Monitoring.Rmd
+               1 個檔案           4,592 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Playground 的目錄
+
+11/26/2021  09:02    <DIR>          .
+11/26/2021  09:02    <DIR>          ..
+11/24/2021  14:48         1,549,941 DataRobot_Case1.csv
+11/24/2021  14:48            10,488 I learn DataRobot Python API.ipynb
+11/24/2021  14:48             3,111 iris-binary.csv
+11/24/2021  14:48            10,913 iris-binary.ipynb
+11/24/2021  14:48             3,657 iris-data.csv
+11/24/2021  14:48               457 iris-holdout.csv
+11/24/2021  14:48            18,215 iris.ipynb
+11/25/2021  08:22               781 jupyter-extension-4-DataRobot.py
+11/24/2021  14:48            49,634 My class imbalance question.ipynb
+11/26/2021  14:01    <DIR>          pathfinder examples
+11/24/2021  14:48             1,280 playground.ipynb
+11/24/2021  14:48            12,338 sqrt_test.csv
+11/24/2021  14:48            12,353 sqrt_train.csv
+              12 個檔案       1,673,168 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Playground\pathfinder examples 的目錄
+
+11/26/2021  14:01    <DIR>          .
+11/26/2021  14:01    <DIR>          ..
+11/26/2021  14:01                 7 .env
+11/26/2021  11:27           130,496 Claim Fraud Prediction.ipynb
+11/26/2021  15:58           139,240 Late Shipment (or Part Shortage) Prediction.ipynb
+11/26/2021  15:58            88,560 Predicting for Fantasy Baseball.ipynb
+11/26/2021  09:02         1,697,435 TensorFlow - Neural Style Transfer.ipynb
+11/26/2021  09:02            65,376 Whether a Parts Failure Will Occur.ipynb
+               6 個檔案       2,121,114 位元組
+
+ c:\Users\8304018\Documents\GitHub\examples-for-data-scientists\Rating Tables 的目錄
+
+11/24/2021  14:48    <DIR>          .
+11/24/2021  14:48    <DIR>          ..
+11/24/2021  14:48            19,766 Rating_Table_to_Scorecard.ipynb
+               1 個檔案          19,766 位元組
+
+     檔案數目總計:
+             160 個檔案      55,801,262 位元組
+             227 個目錄  90,835,427,328 位元組可用
